@@ -1,4 +1,4 @@
-# проверка коммита
+# https://leetcode.com/problems/sorting-the-sentence/description/
 class Solution:
     def sortSentence(self, s: str) -> str:
         s_list = s.split()
