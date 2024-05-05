@@ -1,4 +1,4 @@
-https://leetcode.com/problems/primary-department-for-each-employee/description/
+# https://leetcode.com/problems/primary-department-for-each-employee/description/
 # Write your MySQL query statement below
 select employee_id, department_id from (
 select employee_id, department_id, 
